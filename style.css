@@ -1,7 +1,8 @@
-.{
+*{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;
+    /* justify-content: space-evenly; */
 }
 .navbar{
     height: 60px;
