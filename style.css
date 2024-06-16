@@ -210,6 +210,64 @@
     color: #007185;
 }
 
+.combo {
+    background-color: white;
+    height: 300px;
+    width: 98%;
+    justify-content: space-evenly;
+}
+
+.combo-content {
+    display: flex;
+    gap: 5px;
+    justify-content: space-evenly;
+}
+
+.c1 {
+    height: 300px;
+    display: flex;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    margin-bottom: 5px;
+
+}
+
+.combo h2 {
+    margin-top: 1rem;
+    margin-left: 15px;
+}
+
+.start {
+    margin-left: 15px;
+}
+
+.end {
+    margin-right: 15px;
+}
+
+.a2 {
+    width: 130%;
+    margin-left: 20px;
+}
+
+.a4 {
+    margin-left: 20px;
+}
+
+.a7 {
+    margin-left: 70px;
+}
+
+.a3 {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.a6 {
+    margin-left: 40px;
+}
+
 /*Footer*/
 footer {
     margin-top: 15px;
