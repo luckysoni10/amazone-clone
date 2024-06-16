@@ -11,12 +11,12 @@ This is a clone of the Amazon website created using HTML and CSS only. It includ
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Product Listing](screenshots/product-listing.png)
+![Homepage](HomePage.png)
+![Product Listing](Products.png)
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://luckysoni10.github.io/amazone-clone/).
 
 ## Technologies Used
 
