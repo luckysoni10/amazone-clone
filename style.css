@@ -79,8 +79,6 @@
 .input {
     background-color: #f3f3f3;
     width: 100%;
-    /* border-top-left-radius: 4111px;
-    border-bottom-left-radius:884px; */
     border: none;
     font-size: 1.1rem;
 }
@@ -214,6 +212,7 @@
     background-color: white;
     height: 300px;
     width: 98%;
+    margin-bottom: 15px;
     justify-content: space-evenly;
 }
 

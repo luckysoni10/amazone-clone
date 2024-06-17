@@ -13,6 +13,7 @@ This is a clone of the Amazon website created using HTML and CSS only. It includ
 
 ![Homepage](HomePage.png)
 ![Product Listing](Products.png)
+![Footer](Footer.png)
 
 ## Live Demo
 
